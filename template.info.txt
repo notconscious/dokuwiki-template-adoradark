@@ -1,0 +1,7 @@
+base     adoradark
+author   Drew Prentice
+email    weirdpercent@gmail.com
+date     2012-10-12
+name     Adora Dark
+desc     Dark version of Adora Belle default
+url      http://www.dokuwiki.org/template:dokuwiki
