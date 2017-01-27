@@ -1,5 +1,9 @@
 #Changelog
 
+### 2017-01-27
+
+Move repo to update-proof install method.
+
 ### 2014-12-24
 
 Happy Holidays!
