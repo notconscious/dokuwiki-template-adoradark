@@ -1,0 +1,7 @@
+base     adoradark
+author   Andrew Prentice
+email    drawnepicenter@gmail.com
+date     2017-02-26
+name     Adora Dark
+desc     Dark version of default template
+url      http://www.dokuwiki.org/template:adoradark

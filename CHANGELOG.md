@@ -1,5 +1,9 @@
 #Changelog
 
+### 2017-02-26
+
+Go back to old method as users prefer to install via extension manager.
+
 ### 2017-01-27
 
 Move repo to update-proof install method.
