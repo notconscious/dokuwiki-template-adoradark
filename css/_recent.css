@@ -52,14 +52,14 @@
     border-radius: .2em;
     padding: .1em .2em;
     /* cannot use non-guaranteed style.ini colour placeholders, dark templates need to overwrite */
-    background-color: #ddd;
+    background-color: #333;
 }
 
 .dokuwiki form.changes li .sizechange.positive {
-    background-color: #cfc;;
+    background-color: #4c3;;
 }
 .dokuwiki form.changes li .sizechange.negative {
-    background-color: #fdd;
+    background-color: #d33;
 }
 
 /*____________ page navigator ____________*/
